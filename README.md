@@ -35,9 +35,6 @@ A Java program that generates a sequence of numbers and identifies whether each 
 
 ## How to Run
 
-1. Ensure you have Java 11 or higher installed
-2. Navigate to the project directory
-3. Run using Maven:
 ```bash
 mvn clean install
 mvn exec:java -Dexec.mainClass="com.evenodd.EvenOddProgram"
